@@ -1,4 +1,4 @@
-name: CI-First-Master
+name: Hello World CI
 
 on:
   push:
